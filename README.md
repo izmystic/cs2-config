@@ -1,5 +1,6 @@
 # autoexec
 Put ALL of the .cfg files in the cfg folder for this autoexec to work
+
 all these files are required for the de-subtick method to work
 
 radial txt file is just an addon that you can skip if you don't care about it ig
