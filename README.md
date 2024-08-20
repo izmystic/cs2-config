@@ -1,4 +1,4 @@
-# autoexec
+# V5.0 - 20.08.2024
 Put ALL of the .cfg files in the cfg folder for this autoexec to work
 
 all these files are required for the de-subtick method to work
@@ -6,8 +6,6 @@ all these files are required for the de-subtick method to work
 radial txt file is just an addon that you can skip if you don't care about it ig
 
 this repository will be update when I feel like the changes are major enough, otherwise I will only upload small updates to my friends    
-
-V5.0 - 20.08.2024
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⣟⣟⣟⢿⢿⣶⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
