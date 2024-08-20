@@ -1,7 +1,12 @@
 # autoexec
-this repository will be update when I feel like the changes are major enough, otherwise I will only upload small updates to my friends      
+Put ALL of the .cfg files in the cfg folder for this autoexec to work
+all these files are required for the de-subtick method to work
 
-V4.2.1 - 18.08.2024
+radial txt file is addod you can skip if you don't care about it ig
+
+this repository will be update when I feel like the changes are major enough, otherwise I will only upload small updates to my friends    
+
+V5.0 - 20.08.2024
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⣟⣟⣟⢿⢿⣶⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
