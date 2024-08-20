@@ -1,4 +1,4 @@
-# V5.0 - 20.08.2024
+# V5.1 - 20.08.2024
 Put ALL of the .cfg files in the cfg folder for this autoexec to work
 
 all these files are required for the de-subtick method to work
