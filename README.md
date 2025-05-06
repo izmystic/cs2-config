@@ -1,5 +1,6 @@
-# V5.1 - 20.08.2024
+# V6 - 2025.05.06
 Put ALL of the .cfg files in the cfg folder for this autoexec to work
+(skip the "cs2" folder, it has the old version of the configs in it which no longer work as intended)
 
 all these files are required for the de-subtick method to work
 
