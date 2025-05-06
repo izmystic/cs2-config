@@ -1,12 +1,14 @@
 # V6 - 2025.05.06
 Put ALL of the .cfg files in the cfg folder for this autoexec to work
+
 (skip the "cs2" folder, it has the old version of the configs in it which no longer work as intended)
 
-all these files are required for the de-subtick method to work
+
+all of these files are required for the de-subtick method to work
 
 radial txt file is just an addon that you can skip if you don't care about it ig
 
-this repository will be update when I feel like the changes are major enough, otherwise I will only upload small updates to my friends    
+this repository will be updated when I feel like the changes are major enough, otherwise I will only upload small updates to my friends    
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⣟⣟⣟⢿⢿⣶⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
