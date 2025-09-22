@@ -1,2 +1,2 @@
-Move the autoexec.cfg and the movement folder into `steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
+Move the autoexec.cfg and the movement folder into `steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`  
 If you want to use the radial menu, move the radial_default.txt into `steamapps\common\Counter-Strike Global Offensive\game\csgo`
